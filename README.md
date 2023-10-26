@@ -2,7 +2,7 @@
 
 Design files for keycaps based on [this keyboard layout](https://www.kreativekorp.com/software/keyboards/sitelenpona/) for sitelen pona, the logographic writing system for toki pona.
 
-![](PXL_20231024_045052700a.jpg)
+![](PXL_20231026_072204909a.jpg)
 
 # How to Order
 
