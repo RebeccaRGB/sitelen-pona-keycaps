@@ -71,3 +71,37 @@ The extras include keycaps for ISO (European) keyboards, JIS (Japanese) keyboard
 * **Now** scroll back up and click Add to Cart.
 
 ![](MAX_sitelen_pona_extras_colors.png)
+
+# Translation Guide
+
+| sitelen pona                                   | sitelen Lasina    | gloss                    | English            |
+| ---------------------------------------------- | ----------------- | ------------------------ | ------------------ |
+| ![pali wan](sp/pali-wan.png)                   | pali wan          | "function one"           | F1                 |
+| ![pali luka luka tu](sp/pali-luka-luka-tu.png) | pali luka luka tu | "function five five two" | F12                |
+| ![tawa weka](sp/tawa-weka.png)                 | tawa weka         | "move away"              | escape             |
+| ![tawa monsi](sp/tawa-monsi.png)               | tawa monsi        | "move behind"            | backspace          |
+| ![tawa sinpin](sp/tawa-sinpin.png)             | tawa sinpin       | "move forward"           | space              |
+| ![tawa sinpin mute](sp/tawa-sinpin-mute.png)   | tawa sinpin mute  | "move forward a lot"     | tab                |
+| ![kama lon](sp/kama-lon.png)                   | kama lon          | "become exist"           | enter, return      |
+| ![awen pana sewi](sp/awen-pana-sewi.png)       | awen pana sewi    | "keep emit above"        | caps lock          |
+| ![pana sewi](sp/pana-sewi.png)                 | pana sewi         | "emit above"             | shift              |
+| ![pali lawa](sp/pali-lawa.png)                 | pali lawa         | "function control"       | control            |
+| ![pali sewi](sp/pali-sewi.png)                 | pali sewi         | "function above"         | meta, win, command |
+| ![pali ante](sp/pali-ante.png)                 | pali ante         | "function other"         | alt                |
+| ![lipu pali](sp/lipu-pali.png)                 | lipu pali         | "page of functions"      | context menu       |
+| ![pana ante](sp/pana-ante.png)                 | pana ante         | "emit other"             | altgr, option      |
+| ![pana lipu](sp/pana-lipu.png)                 | pana lipu         | "emit page"              | print screen       |
+| ![pini tawa](sp/pini-tawa.png)                 | pini tawa         | "stop movement"          | scroll lock        |
+| ![pini pali](sp/pini-pali.png)                 | pini pali         | "stop work"              | pause/break        |
+| ![pana insa](sp/pana-insa.png)                 | pana insa         | "put inside"             | insert             |
+| ![kama weka](sp/kama-weka.png)                 | kama weka         | "become away"            | delete             |
+| ![tawa open](sp/tawa-open.png)                 | tawa open         | "move begin"             | home               |
+| ![tawa pini](sp/tawa-pini.png)                 | tawa pini         | "move end"               | end                |
+| ![lipu sewi](sp/lipu-sewi.png)                 | lipu sewi         | "page above"             | page up            |
+| ![lipu anpa](sp/lipu-anpa.png)                 | lipu anpa         | "page under"             | page down          |
+| ![awen nanpa](sp/awen-nanpa.png)               | awen nanpa        | "keep numbers"           | num lock           |
+| ![kama ala](sp/kama-ala.png)                   | kama ala          | "become nothing"         | clear              |
+| ![kalama ala](sp/kalama-ala.png)               | kalama ala        | "sound nothing"          | mute               |
+| ![kalama lili](sp/kalama-lili.png)             | kalama lili       | "sound small"            | volume down        |
+| ![kalama suli](sp/kalama-suli.png)             | kalama suli       | "sound big"              | volume up          |
+| ![ilo nanpa](sp/ilo-nanpa.png)                 | ilo nanpa         | "tool for numbers"       | calculator         |
